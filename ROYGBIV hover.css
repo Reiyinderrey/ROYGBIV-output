@@ -1,0 +1,235 @@
+<style>
+<!--
+
+body {
+align: center;
+}
+
+h1::before {
+content: url("ROYGBIV encloser.png");
+}
+h1::after {
+content: url("ROYGBIV encloser.png");
+}
+
+h1 {
+text-align: center;
+font-family: Georgia;
+font-size: 300%;
+color: white;
+}
+
+h3.a{
+text-align: center; 
+color: #ff8164;
+font-size: 150%;
+}
+
+div.a {
+background-color: #ffc9bb;
+display: none;
+padding: 20px;
+float: top;
+font-family: sans-serif;
+color: #8000000;
+font-size: 100%;
+}
+span.a:hover + div {
+display: block; 
+font-family: Times New Roman;
+}
+
+mark.a {
+color: #ffc9bb;
+background-color: #ff8164;
+font-style: italic;
+font-family: sans-serif;
+font-size: 300%;
+}
+
+
+h3.b{
+text-align: center; 
+color: #f5c77e;
+font-size: 150%;
+}
+
+
+div.b {
+background-color: #f9ddb1;
+display: none;
+padding: 20px;
+float: top;
+font-family: Courier New;
+color: #dc6601;
+font-size: 100%;
+}
+span.b:hover + div {
+display: block; 
+font-family: Times New Roman;
+}
+
+mark.b {
+color: #dc6601;
+background-color: #f5c77e;
+font-style: italic;
+font-family: Courier New;
+font-size: 300%;
+}
+
+
+h3.c{
+text-align: center; 
+color: #f1ee8e;
+font-size: 150%;
+align: center;
+}
+
+div.c {
+background-color: #EEDC83;
+display: none;
+padding: 20px;
+float: top;
+font-family: Ariel;
+color: #e47200;
+font-size: 100%;
+}
+span.c:hover + div {
+display: block; 
+font-family: Times New Roman;
+}
+
+mark.c {
+color: #e47200;
+background-color: #f1ee8e;
+font-style: italic;
+font-family: Ariel;
+font-size: 300%;
+}
+
+
+h3.d{
+text-align: center; 
+color: #72bf6a;
+font-size: 150%;
+align: center;
+}
+
+div.d {
+background-color: #ACDF87;
+display: none;
+padding: 20px;
+float: top;
+font-family: Garamond;
+color: #3b8132;
+font-size: 100%;
+}
+span.d:hover + div {
+display: block; 
+font-family: Times New Roman;
+}
+
+mark.d {
+color: #3b8132;
+background-color: #72bf6a;
+font-style: italic;
+font-family: Garamond;
+font-size: 300%;
+}
+
+h3.e{
+text-align: center; 
+color: #8cd3ff;
+font-size: 150%;
+align: center;
+}
+
+div.e {
+background-color: #D1E5F4;
+display: none;
+padding: 20px;
+float: top;
+font-family: Trebuchet MS;
+color: #003152;
+font-size: 100%;
+}
+span.e:hover + div {
+display: block; 
+font-family: Times New Roman;
+}
+
+mark.e {
+color: #003152;
+background-color: #8cd3ff;
+font-style: italic;
+font-family: Trebuchet MS;
+font-size: 300%;
+}
+
+h3.f {
+text-align: center; 
+color: #7988d2;
+font-size: 150%;
+align: center;
+}
+
+div.f {
+background-color: #6A5ACD;
+display: none;
+padding: 20px;
+float: top;
+font-family: Tahoma;
+color: #331177;
+font-size: 100%;
+}
+span.f:hover + div {
+display: block; 
+font-family: Times New Roman;
+}
+
+mark.f {
+color: #331177;
+background-color: #7988d2;
+font-style: italic;
+font-family: Tahoma;
+font-size: 300%;
+}
+
+h3.g{
+text-align: center; 
+color: #311465;
+font-size: 150%;
+align: center;
+}
+
+div.g {
+background-color: #B284BE;
+display: none;
+padding: 20px;
+float: top;
+font-family: Brush Script MT;
+color: #331177;
+font-size: 100%;
+}
+span.g:hover + div {
+display: block; 
+font-family: Times New Roman;
+}
+
+mark.g {
+color: #C8A2C9;
+background-color: #311465;
+font-style: italic;
+font-family: Brush Script MT;
+font-size: 300%;
+}
+
+div::first-letter {
+font-family: Courier New;
+font-size: 250%;
+font-weight: bold;
+color: black;
+}
+
+-->
+</style>
